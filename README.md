@@ -21,10 +21,3 @@
 **Currently building:** a full-stack digital signage system (Java Android TV client + Spring Boot backend + admin web panel) for managing video content across retail store networks — private repo, possible commercial project.
 
 **Up next:** Kotlin for Android.
-
-<br/>
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PavleMaksimovicc&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavleMaksimovicc&layout=compact&hide_border=true" />
-</p>
